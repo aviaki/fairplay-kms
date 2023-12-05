@@ -1,7 +1,7 @@
 # FairPlay Key Service Management
 
-![Golang Version](https://img.shields.io/github/go-mod/go-version/aviaki/fairplay-ksm)
-![Build Status](https://github.com/aviaki/fairplay-ksm/workflows/Test/badge.svg?branch=master)
+![Golang Version](https://img.shields.io/github/go-mod/go-version/aviaki/fairplay-kms)
+![Build Status](https://github.com/aviaki/fairplay-kms/workflows/Test/badge.svg?branch=master)
 
 Apple FairPlay Streaming ([FPS](https://developer.apple.com/streaming/fps/)) securely delivers keys to Apple mobile devices, Apple TV, and Safari on OS X, which will enable playback of encrypted video content.
 
@@ -12,7 +12,7 @@ Apple FairPlay Streaming ([FPS](https://developer.apple.com/streaming/fps/)) sec
 Download and install it:
 
 ```bash
-go get github.com/aviaki/fairplay-ksm
+go get github.com/aviaki/fairplay-kms
 ```
 
 ### Verify ckc

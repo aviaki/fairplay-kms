@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/aviaki/fairplay-ksm/cryptos"
-	"github.com/aviaki/fairplay-ksm/ksm"
+	"github.com/aviaki/fairplay-kms/cryptos"
+	"github.com/aviaki/fairplay-kms/ksm"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )

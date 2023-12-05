@@ -6,7 +6,7 @@ import (
 	"crypto/cipher"
 	"fmt"
 
-	"github.com/aviaki/fairplay-ksm/logger"
+	"github.com/aviaki/fairplay-kms/logger"
 )
 
 func pkcs5Padding(ciphertext []byte, blockSize int) []byte {

@@ -12,8 +12,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/aviaki/fairplay-ksm/cryptos"
-	"github.com/aviaki/fairplay-ksm/logger"
+	"github.com/aviaki/fairplay-kms/cryptos"
+	"github.com/aviaki/fairplay-kms/logger"
 )
 
 // SPCContainer represents a container to contain SPC message filed.

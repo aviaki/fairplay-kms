@@ -1,4 +1,4 @@
-module github.com/aviaki/fairplay-ksm
+module github.com/aviaki/fairplay-kms
 
 go 1.21.5
 
